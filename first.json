@@ -1,0 +1,18 @@
+{
+    "friends":[
+        {
+            "name":"asif",
+            "age":25
+        },
+        {
+            "name":"medul",
+            "age":24,
+            "arr":[
+                {
+                    "hh":"kii",
+                    "age":909
+                }
+            ]
+        }
+    ]
+}
