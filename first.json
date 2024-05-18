@@ -1,18 +1,26 @@
 {
-    "friends":[
+    "stu":[
         {
-            "name":"asif",
-            "age":25
+            "name":"asif ekbal",
+            "class":15,
+            "roll":140
         },
         {
             "name":"medul",
-            "age":24,
-            "arr":[
-                {
-                    "hh":"kii",
-                    "age":909
-                }
+            "class":16,
+            "add":"mymen"
+        },
+        {
+            "others":[
+               {
+                "hasib":"kkjjk"
+               },
+               {
+                 "nazmul":"j,kjk.k.k"
+               }
             ]
+              
         }
-    ]
+        ]
+    
 }
